@@ -59,4 +59,4 @@ Merge the zip's GameData folder with your KSP/GameData folder.
 - Chatterer
 
 # Credits : 
-Assets and cfg derived or inspired by ASET, MAS, Warbird Cockpits, Vulkan.
+Contains assets and cfgs derived or inspired by ASET, MAS, Warbird Cockpits, Vulkan.
