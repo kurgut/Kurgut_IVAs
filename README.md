@@ -44,7 +44,7 @@ Merge the zip's GameData folder with your KSP/GameData folder.
 - Making History KV2 Pod IVA :
   - dependencies :
     - Making History DLC
-    - PCRIVAPLUS : https://github.com/kurgut/PCRIVAPLUS
+    - PCRIVAPLUS : (only the mod itself needed, not its own dependencies) https://github.com/kurgut/PCRIVAPLUS
     - ECSIVA (only decorative stickers) : https://github.com/kurgut/ECS_IVA
 ![kv1](https://github.com/user-attachments/assets/1011d315-8d2f-4871-9816-0545e6f2d685)
 ![kv2](https://github.com/user-attachments/assets/8fbb0479-46e5-4a00-8d12-f3dd8d613d0a)
