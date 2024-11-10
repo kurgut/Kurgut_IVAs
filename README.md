@@ -5,7 +5,7 @@ I'm making a public repo for all of those, because I've been asked quite often i
 
 # Important Note : 
 Most of those IVAs have been made quite a while ago, so expect bugs, non-working features, etc. As they were made for singular projects, they will likely not receive any further updates, or fixes.
-As of this, I also wont provide any support for this. Consider this as a "dump" repo ^^
+As of this, I also wont provide any support for this, or, please if you really need it, triple check your KSP installation, mod dependencies, and provide logs. Consider this as a "dump" repo ^^
 You can pick dependencies depending of what IVA you want (detailled below)
 Enjoy !
 
@@ -59,4 +59,4 @@ Merge the zip's GameData folder with your KSP/GameData folder.
 - Chatterer
 
 # Credits : 
-Assets and cfg derived or inspired by ASET, MAS, Warbird Cockpits, Vulkan.
+Contains assets and cfgs derived or inspired by ASET, MAS, Warbird Cockpits, Vulkan.
