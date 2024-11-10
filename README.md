@@ -50,12 +50,13 @@ Merge the zip's GameData folder with your KSP/GameData folder.
 ![kv2](https://github.com/user-attachments/assets/8fbb0479-46e5-4a00-8d12-f3dd8d613d0a)
 
 # Recommended extra mods to enhance IVA gameplay : 
-FreeIVA
-Mechjeb
-Scansat
-Astrogrator
-KOSPropMonitor
-DPAI
-Chatterer
+- FreeIVA
+- Mechjeb
+- Scansat
+- Astrogrator
+- KOSPropMonitor
+- DPAI
+- Chatterer
 
-# Credits : Assets and cfg derived or inspired by ASET, MAS, Warbird Cockpits, Vulkan.
+# Credits : 
+Assets and cfg derived or inspired by ASET, MAS, Warbird Cockpits, Vulkan.
