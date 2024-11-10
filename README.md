@@ -13,11 +13,11 @@ Enjoy !
 Merge the zip's GameData folder with your KSP/GameData folder.
 
 # Global Dependencies : 
-RPM
-ASET props and avionics
-MoarDv Avionics Systems
-Reviva
-NearFutureProps (Decorative elements only)
+- RPM
+- ASET props and avionics
+- MoarDv Avionics Systems
+- Reviva
+- NearFutureProps (Decorative elements only)
 
 # Content : 
 - WBI Flying Saucer Excalibur cockpit :
