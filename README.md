@@ -37,6 +37,7 @@ Merge the zip's GameData folder with your KSP/GameData folder.
 - "Historical" B29 cockpit (Airplane Plus, Size 2 Viewer's Cockpit II) :
   - dependencies :
     - Airplane Plus
+    - Warbird Cockpits
     - Vulkan's M2X_Angler_IVA (in this one IIRC, only decorative elemnts): https://bitbucket.org/m2x-iva/m2x_iva/src/main/
 ![b291](https://github.com/user-attachments/assets/24cbf250-98de-42bf-8548-2442d738ddb4)
 ![b292](https://github.com/user-attachments/assets/14527723-8684-4696-96e8-0f0e444b408f)
