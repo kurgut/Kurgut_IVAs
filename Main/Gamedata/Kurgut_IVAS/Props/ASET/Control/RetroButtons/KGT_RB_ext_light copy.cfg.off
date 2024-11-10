@@ -1,0 +1,71 @@
+PROP
+{
+  name = KGT_RB_ext_light 
+  
+// Knob model
+ 
+  	MODEL
+	{
+		model = ASET/ASET_Props/Control/RetroButton/RetroButton
+		texture = RetroButtonDiffuse,ASET/ASET_Props/Control/RetroButton/RetroButtonDiffuse
+	}
+	
+// action    
+
+
+	MODULE
+	{
+		name = JSIActionGroupSwitch
+		switchTransform = ButtonTopObj
+		actionName = lights
+		switchSound = ASET/ASET_Props/Sounds/buttonbeep
+	}
+	
+// button animation	
+
+	MODULE
+	{
+		name = JSIActionGroupSwitch
+		animationName = RetroButtonLightAnim
+		switchTransform = ButtonTopObj
+		//customSpeed = 1.5
+		actionName = dummy
+		//momentarySwitch = true
+		
+	}	
+	
+// panel Backlight -------------------------------------------------------------
+	
+	MODULE
+	{
+		name = JSICallbackAnimator
+		variableName = CUSTOM_ALCOR_BACKLIGHT_ON
+
+ 		VARIABLESET
+		{
+			coloredObject = ButtonTopObj
+			passiveColor = 0,0,0,255
+			activeColor = 142,142,142,255 //COLOR_ASET_SWITCHER_BORDER_POSITIVECOLOR
+			scale = 0.5,1.0 //0.5,1.1
+		}
+	}	
+
+// Button name -----------------------------------------------------
+
+	MODULE
+	{
+		name = JSILabel		
+		transformName = ButtonNameTextObj
+		alignment = Center
+		anchor = MiddleRight
+		transformOffset = 0.00787,-0.00473
+		fontName = Arial
+		fontSize = 2.6
+		emissive = never 
+		zeroColor = 0,0,0,255
+		labelText = [b]EXT$$$■■■■■■$$$LIGHT[/b]
+		oneshot = true
+	} 
+}
+
+

@@ -1,0 +1,28 @@
+
+
+RPM
+ASET props and avionics
+Reviva
+Warbird's cockpits
+AirplanePlus
+PCRIVAPLUS (only their props are used, no need to install their dependencies)
+NFprops (decoratives props only)
+ECSIVA (decoratives props only)
+Vulkan's M2X_Angler_IVA (bitbucket repo, please, don't ask him support too)
+flying saucers
+KSP_Starship-kOS-Interface
+
+
+
+recommended additional mod to enhance the IVA experience : 
+FreeIVA
+Mechjeb
+Scansat
+Astrogrator
+DPAI
+Chatterer
+
+
+
+APP : Size 2 Viewer's Cockpit II
+Buffalo 2 : Guppy Submarine module, S-4 "Excalibur" Cockpit
