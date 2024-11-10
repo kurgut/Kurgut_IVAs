@@ -23,7 +23,7 @@ Merge the zip's GameData folder with your KSP/GameData folder.
 - WBI Flying Saucer Excalibur cockpit :
   - dependencies :
     - Flying Saucers
-    - Starship KOS interface : https://github.com/Janus1992/KSP_Starship-kOS-Interface
+    - Starship KOS interface (only for the 3 "captain station" monitors) : https://github.com/Janus1992/KSP_Starship-kOS-Interface
 ![sa1](https://github.com/user-attachments/assets/5c6b9679-6b7e-414d-8279-f951e13486f5)
 ![sa2](https://github.com/user-attachments/assets/266c7fdf-e89f-490a-a032-a93786068eb7)
 - WBI Buffalo 2 Guppy Subarmine module :
