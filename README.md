@@ -29,7 +29,7 @@ Merge the zip's GameData folder with your KSP/GameData folder.
 - WBI Buffalo 2 Guppy Subarmine module :
   - dependencies :
     - Bufallo 2
-    - Vulkan's M2X_Angler_IVA (please, don't ask him support too) : https://bitbucket.org/m2x-iva/m2x_iva/src/main/
+    - Vulkan's M2X_Angler_IVA (please, don't ask him support too) : https://bitbucket.org/m2x-iva/m2x_iva/src/main/ -> Only the mod itself is needed, not its own dependencies.
 ![gu2](https://github.com/user-attachments/assets/4ddd4872-fb17-4205-bf5e-26e5904ed4b4)
 ![gu1](https://github.com/user-attachments/assets/2de751a6-967b-4906-933d-688c415b49e9)
 ![gu3](https://github.com/user-attachments/assets/e9cc9f68-4beb-4968-a43e-a9c71265c4f9)
@@ -38,14 +38,14 @@ Merge the zip's GameData folder with your KSP/GameData folder.
   - dependencies :
     - Airplane Plus
     - Warbird Cockpits
-    - Vulkan's M2X_Angler_IVA (in this one IIRC, only decorative elemnts): https://bitbucket.org/m2x-iva/m2x_iva/src/main/
+    - Vulkan's M2X_Angler_IVA (in this one IIRC, only decorative elemnts): https://bitbucket.org/m2x-iva/m2x_iva/src/main/ -> Only the mod itself is needed, not its own dependencies.
 ![b291](https://github.com/user-attachments/assets/24cbf250-98de-42bf-8548-2442d738ddb4)
 ![b292](https://github.com/user-attachments/assets/14527723-8684-4696-96e8-0f0e444b408f)
 ![b293](https://github.com/user-attachments/assets/1de2a945-e2f0-4693-9cca-5df3669d4e6f)
 - Making History KV2 Pod IVA :
   - dependencies :
     - Making History DLC
-    - PCRIVAPLUS : (only the mod itself needed, not its own dependencies) https://github.com/kurgut/PCRIVAPLUS
+    - PCRIVAPLUS : (only the mod itself needed, not its own dependencies) https://github.com/kurgut/PCRIVAPLUS -> Only the mod itself is needed, not its own dependencies.
     - ECSIVA (only decorative stickers) : https://github.com/kurgut/ECS_IVA
 ![kv1](https://github.com/user-attachments/assets/1011d315-8d2f-4871-9816-0545e6f2d685)
 ![kv2](https://github.com/user-attachments/assets/8fbb0479-46e5-4a00-8d12-f3dd8d613d0a)
